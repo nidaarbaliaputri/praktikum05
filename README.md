@@ -2,9 +2,9 @@
 # **PROGRAM INPUT NILAI MAHASISWA MENGGUNAKAN DICTIONARY**
 
 ```sh
-Nama   : Maulana Reza Badrudin
-Nim    : 312110510
-Matkul : Bahas Pemograman
+Nama   : Nida Arbalia Putri
+Nim    : 312110558
+Matkul : Bahasa Pemograman
 ```
 
 ## **Deskripsi**
